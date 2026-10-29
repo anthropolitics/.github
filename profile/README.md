@@ -6,7 +6,7 @@ On informe et on chiffre. On ne dit jamais pour qui voter.
 
 ## Ce qu'on fait
 
-- **Un moteur open source**, [simulator](https://github.com/anthropolitics/simulator), qui calcule ménage par ménage l'effet des mesures de chaque programme : impôts, cotisations, prestations. Il s'appuie sur [OpenFisca-France](https://github.com/openfisca/openfisca-france).
+- **Un moteur open source**, [simulator](https://github.com/anthropolitics/simulator), qui calcule ménage par ménage l'effet des mesures de chaque programme : impôts, cotisations, prestations.
 - **Des vidéos pédagogiques** d'environ une minute, tirées des résultats du moteur. Chaque vidéo renvoie au scénario publié : n'importe qui peut vérifier ou relancer le chiffre.
 
 ## Nos principes
